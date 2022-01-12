@@ -7,7 +7,7 @@
     "Screen1": 3
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "01/12/2022 17:20:45",
+  "HeaderLastSavedDateTimeUTC": "01/12/2022 17:21:37",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
@@ -23,7 +23,7 @@
   "PublishOrderIndices": {
     "App": 0,
     "Button1": 0,
-    "Label1": 0,
+    "Label1": 1,
     "Screen1": 0
   },
   "ResourcesJsonIndices": {},
