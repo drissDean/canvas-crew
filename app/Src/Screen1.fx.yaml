@@ -1,2 +1,15 @@
 Screen1 As screen:
 
+    Button1 As button:
+        OnSelect: =Label1.Text = "Dean"
+        Text: ="Dean's"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    Label1 As label:
+        Text: ="Text"
+        X: =818
+        Y: =40
+        ZIndex: =2
+
