@@ -1,7 +1,7 @@
 Screen1 As screen:
 
     Button1 As button:
-        OnSelect: =Label1.Text = "Dean"
+        OnSelect: =Set(text
         Text: ="Dean's"
         X: =40
         Y: =40
