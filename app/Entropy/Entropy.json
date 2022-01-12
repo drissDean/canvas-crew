@@ -3,11 +3,12 @@
   "ControlUniqueIds": {
     "App": 1,
     "Button1": 4,
+    "Button1_1": 7,
     "Label1": 5,
     "Screen1": 3
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "01/12/2022 17:22:56",
+  "HeaderLastSavedDateTimeUTC": "01/12/2022 17:24:05",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
@@ -23,6 +24,7 @@
   "PublishOrderIndices": {
     "App": 0,
     "Button1": 0,
+    "Button1_1": 0,
     "Label1": 1,
     "Screen1": 0
   },
@@ -31,8 +33,8 @@
   "VolatileProperties": {
     "AnalysisLoadTime": 0.0179781,
     "ControlCount": {
-      "button": 1
+      "button": 2
     },
-    "ErrorCount": 2
+    "ErrorCount": 0
   }
 }
