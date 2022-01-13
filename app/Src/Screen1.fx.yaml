@@ -20,3 +20,9 @@ Screen1 As screen:
         Y: =142
         ZIndex: =3
 
+    Button2 As button:
+        Text: ="Amdy Btn"
+        X: =40
+        Y: =274
+        ZIndex: =4
+

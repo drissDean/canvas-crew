@@ -3,12 +3,13 @@
   "ControlUniqueIds": {
     "App": 1,
     "Button1": 4,
-    "Button1_1": 7,
-    "Label1": 5,
+    "Button1_1": 5,
+    "Button2": 7,
+    "Label1": 6,
     "Screen1": 3
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "01/12/2022 17:24:16",
+  "HeaderLastSavedDateTimeUTC": "01/13/2022 13:54:06",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
@@ -25,16 +26,20 @@
     "App": 0,
     "Button1": 0,
     "Button1_1": 0,
+    "Button2": 0,
     "Label1": 1,
     "Screen1": 0
   },
   "ResourcesJsonIndices": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0179781,
+    "AnalysisLoadTime": 0.057342,
     "ControlCount": {
-      "button": 2
+      "button": 2,
+      "label": 1,
+      "screen": 1
     },
+    "DeserializationLoadTime": 1.1376888,
     "ErrorCount": 0
   }
 }
