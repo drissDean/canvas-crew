@@ -14,9 +14,16 @@ Screen1 As screen:
         ZIndex: =2
 
     Button1_1 As button:
-        OnSelect: =Set(text,"Somebody's")
+        OnSelect: =Set(text,"Someone else's")
         Text: ="Somebody's"
         X: =40
         Y: =142
         ZIndex: =3
+
+    Button2 As button:
+        OnSelect: =Set(text,"Amdy's")
+        Text: ="Amdy Btn"
+        X: =40
+        Y: =274
+        ZIndex: =4
 
