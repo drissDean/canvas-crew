@@ -34,3 +34,10 @@ Screen1 As screen:
         Y: =40
         ZIndex: =5
 
+    Button2_1 As button:
+        OnSelect: =Set(text,"Amdy bis's")
+        Text: ="Amdy Btn"
+        X: =40
+        Y: =382
+        ZIndex: =5
+
