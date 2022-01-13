@@ -21,7 +21,7 @@ Screen1 As screen:
         ZIndex: =3
 
     Button2 As button:
-        OnSelect: =Set(text,"Amdy's")
+        OnSelect: =Set(text,"ffffff")
         Text: ="Amdy Btn"
         X: =40
         Y: =274
